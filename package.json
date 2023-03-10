@@ -1,0 +1,11 @@
+{
+  "name": "css-scrolling-animation",
+  "version": "1.0.0",
+  "description": "Responsive website with scroll animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nnamdi Nwolisa",
+  "license": "MIT"
+}
